@@ -1,6 +1,6 @@
-### Hi👋 I'm Sardor Djurakulov, a front-end JS/React.js developer 
+## Hi👋 I'm Sardor Djurakulov, a front-end JS/React.js developer 
 
-### 📫 How to reach me: 
+## 📫 How to reach me: 
 # Insta:
  [djuraku1ov](https://www.instagram.com/djuraku1ov/)
  
