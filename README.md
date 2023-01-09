@@ -5,9 +5,6 @@
  [djuraku1ov](https://www.instagram.com/djuraku1ov/);
  Telegram:
  [@sard0r_js](https://t.me/sard0r_js)
- 
- 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
