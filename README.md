@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+<center>![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)</center>
 
 ### Hi👋 I'm Sardor Djurakulov, a front-end JS/React.js developer 
 
