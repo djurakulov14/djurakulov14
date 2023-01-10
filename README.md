@@ -13,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/djurakulov14/count.svg" />
 </p>
 
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"></a></p>
+[](https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47z22ndjasyxvtldqdd7qrllz7svl9socdvg2ek43s&rid=giphy.gif&ct=g)
 <!--
 **djurakulov14/djurakulov14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
