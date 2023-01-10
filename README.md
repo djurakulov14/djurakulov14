@@ -13,7 +13,8 @@
   <img src="https://profile-counter.glitch.me/djurakulov14/count.svg" />
 </p>
 
-[](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+<!-- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) -->
 <!--
 **djurakulov14/djurakulov14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
