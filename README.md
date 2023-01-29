@@ -1,6 +1,8 @@
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-### Hi👋 I'm Sardor Djurakulov, a front-end JS/React.js developer 
+### Hi👋 I'm Sardor Djurakulov, a front-end developer 
+
+#####⚡ Skills:JS/TS/React.js/Neaxt.js
 
 #### 📫 How to reach me: 
  Insta:
