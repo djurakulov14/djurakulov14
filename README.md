@@ -2,7 +2,7 @@
 
 ### Hi👋 I'm Sardor Djurakulov, a front-end developer 
 
-##### ⚡ Skills:JS/TS/React.js/Neaxt.js
+##### ⚡ Skills: JS/TS/React.js/Neaxt.js
 
 #### 📫 How to reach me: 
  Insta:
