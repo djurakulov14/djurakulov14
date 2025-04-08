@@ -2,7 +2,7 @@
 
 ### Hi👋 I'm Sardor Djurakulov, a front-end developer 
 
-### Always ready to create digital solution for your bussines 
+### Always ready to create a digital solution for your business 
 
 #### ⚡ Skills: JS/TS/React.js/Next.js
 
@@ -22,7 +22,7 @@
 <!-- ![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif) -->
 <!-- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) -->
 <!--
-**djurakulov14/djurakulov14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**djurakulov14/djurakulov14** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
