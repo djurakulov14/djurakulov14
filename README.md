@@ -2,10 +2,12 @@
 
 ### Hi👋 I'm Sardor Djurakulov, a front-end developer 
 
+### Always ready to create digital solution for your bussines 
+
 #### ⚡ Skills: JS/TS/React.js/Next.js
 
 #### 📫 How to reach me: 
- Insta:
+ Inst:
  [djuraku1ov](https://www.instagram.com/djuraku1ov/);
  Telegram:
  [@sard0r_js](https://t.me/sard0r_js)
