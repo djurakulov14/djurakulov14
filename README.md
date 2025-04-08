@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-### Hi👋 I'm Sardor Djurakulov, a front-end developer 
+### Hi👋 I'm Sardor Djurakulov, 👨‍💻 React & Next.js Developer | TypeScript & JavaScript
 
 ### Always ready to create a digital solution for your business 
 
