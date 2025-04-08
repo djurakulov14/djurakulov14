@@ -10,7 +10,7 @@
  Inst:
  [djuraku1ov](https://www.instagram.com/djuraku1ov/);
  Telegram:
- [@sard0r_js](https://t.me/sard0r_js)
+ [@sard0r_js](https://t.me/djuraku1ov)
 
 <a href=#><img src="contributions.svg"></a>
 
